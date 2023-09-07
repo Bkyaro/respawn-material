@@ -6,3 +6,6 @@
 
 ### FUNDAMENTAL
 - [Huorong](https://www.huorong.cn/person5.html)
+
+### TOOLS
+- [IShots](https://apps.apple.com/us/app/ishot-screenshot-recording-ocr)
